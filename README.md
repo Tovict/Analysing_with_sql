@@ -1,4 +1,4 @@
-# Analysing_with_sql
+# AnalyZing_Dataset_With_PostgreSQL
 
 Every year, school test results play a role in deciding the fate of millions of students. In America, the SAT is a major part of the college admissions process.
 
